@@ -35,10 +35,7 @@
 
   </div>
 <br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+
 
 <!------------------------->
 <h2>GitHub :octocat:</h2>
