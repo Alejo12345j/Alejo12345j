@@ -138,10 +138,6 @@
 <br>
 <br>
 
-<div align='center'>
-
-## <b>ا</b>
-
 </div>
 <br>
 <br>
